@@ -8,4 +8,5 @@ https://github.com/Bokuchin/SwitchProconGyroMouse
 こちらのmouse_gyro.pyの実行法と同じです。  
 Qiita記事にmouse_gyro.pyを使うまでの準備方法が書いてあるので
 sudo python3 mouse_gyro.pyをsudo python3 rensha.pyに変えて実行すれば使えます。  
-rensha.pyではマウスは使用しないのでどんなマウスを使ってても構いません。
+rensha.pyではマウスは使用しないのでどんなマウスを使ってても構いません。  
+rensha.pyにはmouse_gyro.pyの名残でマウスを色々する部分が残っていますが、その部分を消すかコメントアウトしてしまって構いません。
